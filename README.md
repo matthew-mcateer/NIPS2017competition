@@ -9,18 +9,7 @@ Data &amp; Scripts for develop a machine learning algorithm that automatically c
 ### How do I get set up? ###
 
 * To set up, clone the repository or download a .zip file with the repository to your desired directory. Make sure that the directory contains a folder titled "data" to include the MNIST and CelebA folders in.
-* The Supporting Data files can be found here:
-
-[Test Text](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/test_text.zip)
-
-[Test Variants](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/test_variants.zip)
-
-[Training Text](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/training_text.zip)
-
-[Training Variants](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/training_variants.zip)
-
-These were too large to fit in my Github.
-
+* The Supporting Data files can be found here: [Test Text](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/test_text.zip), [Test Variants](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/test_variants.zip), [Training Text](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/training_text.zip), and [Training Variants](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/training_variants.zip) (These were too large to fit in my Github).
 * To start, run the Jupyter Notebook application in an environment (such as that created by Anaconda) with the skikit-learn, numpy, pandas, jupyter notebook, and xgboost packages. xgboost may require special [installation instructions](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Installing_XGBoost_For_Anaconda_on_Windows?lang=en).
 
 ### Contribution guidelines ###
