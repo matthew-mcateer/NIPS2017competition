@@ -11,7 +11,7 @@ The default method for categorizing these methods is very time-inefficient. With
 
 Given this massive state space of unique mutations, it makes sense that the manual approach has not yielded this Holy Grail of personalized medicine yet.
 
-Memorial Sloan Kettering Cancer Center (MSKCC) has asked for help to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations. MSKCC is making available an expert-annotated knowledge base where world-class researchers and oncologists have manually annotated thousands of mutations.
+Memorial Sloan Kettering Cancer Center (MSKCC) has asked for help to develop a machine learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations. MSKCC is making available an expert-annotated knowledge base where world-class researchers and oncologists have manually annotated thousands of mutations.
 
 ### What is this repository for? ###
 * This is the data and code for responding to the ["Personalized Medicine: Redefining Cancer Treatment" Kaggle competiton](https://www.kaggle.com/c/msk-redefining-cancer-treatment). 
@@ -28,15 +28,14 @@ Memorial Sloan Kettering Cancer Center (MSKCC) has asked for help to develop a M
 * Using the F1 score to optimize for precision and recall across nine variant classes classes
 
 ### How do I get set up? ###
-
 * To set up, clone the repository or download a .zip file with the repository to your desired directory.
 * The Supporting Data files can be found here: [Test Text](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/test_text.zip), [Test Variants](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/test_variants.zip), [Training Text](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/training_text.zip), and [Training Variants](https://www.kaggle.com/c/msk-redefining-cancer-treatment/download/training_variants.zip) (These were too large to fit in my Github).
 * To start, run the Jupyter Notebook application in an environment (such as that created by Anaconda) with the skikit-learn, numpy, pandas, jupyter notebook, and xgboost packages. xgboost may require special [installation instructions](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Installing_XGBoost_For_Anaconda_on_Windows?lang=en).
 
 ### Contribution guidelines ###
-
 * This repository can easily be forked and contributed to on Github. Feel free to work on your own improvements and send a pull request.
 
-### Future Directions ###
+### Current Status and Future Directions ###
+
 * Addition of Genia, Oncogene, and other pubmed papers to data for training
 * Incorporation of Spacy, Gensim, & NLTK
