@@ -1,7 +1,7 @@
 # MSKCC's Precision Medicine Initiative
 ### Background ###
 
-Ever since the completion of human genome project, many have been projecting the advent of an era where personalized medicine will be able to beat cancer using specific information from our genomes. It sounds simple enough; by knowing precisely the mutations one carries, one could understand right down to the molecular level how the cancer came about, how it works, and how to fight it. 
+Ever since the completion of human genome project, many have been projecting the advent of an era where personalized medicine will be able to beat cancer. It sounds simple enough; by knowing precisely the mutations one carries in their now sequencable genome, one could understand right down to the molecular level how the cancer came about, how it works, and how to fight it. 
 
 Unfortunately, there are still two major obstacles to this vision: The genomic diversity of cancer, and the manpower limitations of the current research. 
 
