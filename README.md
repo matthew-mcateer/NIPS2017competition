@@ -38,6 +38,5 @@ Memorial Sloan Kettering Cancer Center (MSKCC) has asked for help to develop a M
 * This repository can easily be forked and contributed to on Github. Feel free to work on your own improvements and send a pull request.
 
 ### Future Directions ###
-**Data:**
 * Addition of Genia, Oncogene, and other pubmed papers to data for training
 * Incorporation of Spacy, Gensim, & NLTK
