@@ -1,5 +1,4 @@
-# NIPS 2017 competition
-Data &amp; Scripts for develop a machine learning algorithm that automatically classifies genetic variations. 
+# MSKCC's Precision Medicine Initiative
 ### Background ###
 
 Ever since the completion of human genome project, many have been projecting the advent of an era where personalized medicine will be able to beat cancer using specific information from our genomes. It sounds simple enough; by knowing precisely the mutations one carries, one could understand right down to the molecular level how the cancer came about, how it works, and how to fight it. 
